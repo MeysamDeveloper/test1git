@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 .,m.,mmkllkmjhgjhgjhgjhgjhg
+=======
+.,m.,mmkllkmjhgjhgfhgfhg
+>>>>>>> b2
